@@ -65,4 +65,3 @@ Verify that the e-learning application works correctly for learners and authoriz
 - Regression Report
 - Test Summary Report
 
-> Portfolio note: This is a practice/demo QA project. It should be presented as a portfolio project, not as commercial production testing unless that work was actually performed.
