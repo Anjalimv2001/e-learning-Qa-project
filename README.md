@@ -42,7 +42,3 @@ Manual Testing • Postman • SQL/MySQL • JIRA • Git/GitHub • Chrome DevT
 ## How to Explain This Project
 
 "I tested an e-learning application end to end. I designed and executed manual test cases across core workflows, documented defects with severity and priority, performed retesting after fixes, and executed regression testing to make sure existing functionality was not impacted."
-
-## Important
-
-This is a portfolio/demo project. Do not present simulated execution or defects as commercial/company experience.
